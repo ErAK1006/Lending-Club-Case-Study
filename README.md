@@ -1,6 +1,6 @@
 # Lending Club Case Study
 
-## Data Analysis:
+## Data Understanding :
 Lending loans to ‘Risky’ applicants is the largest source of financial loss
 called credit loss. The credit loss is the amount of money lost by the lender 
 when the borrower refusesto pay or runs away with the money owed.  
@@ -13,10 +13,10 @@ behind loan default,
 i.e. the variables which are strong indicators of default.  
 The company can utilise this knowledge for its portfolio and risk assessment.
 
-#### Step 1: Data Cleaning 1
-#### Step 2: Univariate Analysis
-#### Step 3: Segemented Univariate Analysis
-#### Step 4: Bivaraiate/Multivariate Analysis
+#### Step 1: Data cleaning and Manipulation 
+#### Step 2: Data Analysis
+#### Step 3: Presentation and Recommendations 
+#### Step 4: Conciseness and readability of the code
 #### Step 5: Results
 
 ## Contributors
