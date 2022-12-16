@@ -1,24 +1,21 @@
-# Lending-Club-Case-Study
-Assigment : 
+# Lending Club Case Study
+### Data Analysis:
+Lending loans to ‘Risky’ applicants is the largest source of financial loss
+called credit loss. The credit loss is the amount of money lost by the lender 
+when the borrower refusesto pay or runs away with the money owed.  
+The main objective is to be able to identify these risky loan applicants, 
+then such loans can be reduced thereby cutting down the amount of credit loss. 
+Identification of such applicants using EDA is the aim of this case study.   
+Perform an analysis to understand the driving factors or driver variables
+behind loan default,
+i.e. the variables which are strong indicators of default.  
+The company can utilise this knowledge for its portfolio and risk assessment.
 
-The case study focuses on EDA to understand which parameters are key to ascertain whether a customer will repay the loan or not. The major parameters to consider while giving loan along with their data distribution are well presented.
+### Step 1: Data Cleaning 1
+### Step 2: Univariate Analysis
+### Step 3: Segemented Univariate Analysis
+### Step 4: Bivaraiate/Multivariate Analysis
+### Step 5: Results
 
-Contributors:
-
-Aditya Kumar Pal
-
-## Table of Contents
-### General Info:
-This Case Study is related from loans providing after check cibil score.
-
-### Technologies Used:
-Using Exel and coding in python.
-
-### Conclusions:
-From this it is decided that we should do bank transactions very carefully and should not do any fraud.
-
-### Acknowledgements:
-We should keep our transaction and cibil score good.
-
-## Cotact
-Created by @ErAk1006
+## Contributors
+### Aditya Kumar Pal
